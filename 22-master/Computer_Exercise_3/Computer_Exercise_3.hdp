@@ -1,0 +1,29 @@
+[ModelSim]
+Computer_Exerccise_2_lib = P:/Git/22/Computer_Exerccise_2/Computer_Exerccise_2_lib/work
+Computer_Exercise_3_lib = $HDS_PROJECT_DIR/Computer_Exercise_3_lib/work
+pre_made = P:\Git\22\pre_made\work
+tb_lib = P:/Git/22/tb_lib/work
+[hdl]
+Computer_Exerccise_2_lib = P:/Git/22/Computer_Exerccise_2/Computer_Exerccise_2_lib/hdl
+Computer_Exercise_3_lib = $HDS_PROJECT_DIR/Computer_Exercise_3_lib/hdl
+pre_made = P:/Git/22/pre_made/hdl
+tb_lib = P:/Git/22/tb_lib/hdl
+[hds]
+Computer_Exerccise_2_lib = P:/Git/22/Computer_Exerccise_2/Computer_Exerccise_2_lib/hds
+Computer_Exercise_3_lib = $HDS_PROJECT_DIR/Computer_Exercise_3_lib/hds
+pre_made = P:/Git/22/pre_made/hds
+tb_lib = P:/Git/22/tb_lib/hds
+[hds_settings]
+default_library = Computer_Exercise_3_lib
+version = 2
+[library_files_inclusion]
+Computer_Exerccise_2_lib = all
+pre_made = all
+tb_lib = all
+[library_type]
+Computer_Exerccise_2_lib = regular
+Computer_Exercise_3_lib = regular
+pre_made = regular
+tb_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

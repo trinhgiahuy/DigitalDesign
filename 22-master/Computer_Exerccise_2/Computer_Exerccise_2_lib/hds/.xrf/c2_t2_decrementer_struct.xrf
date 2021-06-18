@@ -1,0 +1,104 @@
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 41,0 33 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 243,0 44 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 249,0 45 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 296,0 46 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 48
+LIBRARY Computer_Exerccise_2_lib
+DESIGN @decrementer
+VIEW struct
+GRAPHIC 157,0 50 0 
+DESIGN @decrementer
+VIEW symbol.sb
+GRAPHIC 116,0 52 0 
+DESIGN @decrementer
+VIEW symbol.sb
+GRAPHIC 121,0 53 0 
+DESIGN @decrementer
+VIEW symbol.sb
+GRAPHIC 131,0 54 0 
+DESIGN @decrementer
+VIEW symbol.sb
+GRAPHIC 126,0 55 0 
+LIBRARY Computer_Exerccise_2_lib
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 157,0 61 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 64
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 282,0 66 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 157,0 71 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 231,0 73 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 245,0 74 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 251,0 75 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 261,0 76 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 183,0 78 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 225,0 80 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 298,0 81 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 245,0 82 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 267,0 83 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 193,0 85 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 237,0 87 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 251,0 88 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+GRAPHIC 255,0 90 0 
+DESIGN @c2_@t2_@decrementer
+VIEW struct.bd
+NO_GRAPHIC 93

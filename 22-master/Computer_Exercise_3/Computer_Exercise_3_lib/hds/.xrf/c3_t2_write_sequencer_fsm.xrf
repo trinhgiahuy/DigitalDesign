@@ -1,0 +1,569 @@
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 124,0 14 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 129,0 15 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 364,0 16 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 532,0 17 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 134,0 18 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 159,0 19 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 288,0 20 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 154,0 21 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 144,0 22 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 139,0 23 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 149,0 24 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 31,0 40 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 43
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 30,0 47 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 48
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 73 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 74
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1415,0 77 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 78
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 82 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 83
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 86 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 87
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 70,0 88 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 91
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 60,0 94 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 95
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 104 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 586,0 105 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 635,0 106 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 636,0 107 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1980,0 108 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1981,0 109 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 110
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 113 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 114
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 115 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 116
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 118 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 119
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1415,0 129 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 130 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 43,0 131 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2029,0 132 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2005,0 133 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 134
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 343,0 137 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 321,0 138 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 139
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 43,0 143 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 144
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 321,0 148 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 414,0 149 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 150
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 414,0 153 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 451,0 154 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 155
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 451,0 158 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 478,0 159 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 160
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 478,0 163 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 505,0 164 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 165
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 505,0 168 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 532,0 169 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 170
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 532,0 173 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 813,0 174 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 175
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 586,0 178 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 635,0 179 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 603,0 180 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 181
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1980,0 184 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1958,0 185 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 186
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 586,0 190 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 191
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 603,0 195 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1415,0 196 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 198
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 813,0 201 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1104,0 202 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 203
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1104,0 206 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 586,0 207 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 208
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1415,0 211 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1798,0 212 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 43,0 213 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 214
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1415,0 218 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 219
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1958,0 223 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1415,0 224 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 226
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2005,0 229 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2039,0 230 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 586,0 231 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 232
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2005,0 236 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 237
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 93,0 241 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 243
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 247 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 248
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 250 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 251
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 30,0 256 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 262
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 264 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 321,0 265 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 336,0 266 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 414,0 267 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 429,0 268 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 451,0 270 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 466,0 271 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 478,0 273 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 493,0 274 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 505,0 277 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 520,0 278 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 532,0 281 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 547,0 282 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 586,0 285 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 601,0 286 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 603,0 287 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 618,0 288 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 813,0 289 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 828,0 290 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1104,0 293 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1119,0 294 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1958,0 296 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 1973,0 297 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2005,0 299 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2020,0 300 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 302
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 304 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 306
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 308 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 312
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+GRAPHIC 2,0 315 0
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@write_@sequencer
+VIEW fsm.sm
+NO_GRAPHIC 333

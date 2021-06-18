@@ -1,0 +1,30 @@
+[ModelSim]
+Computer_Exerccise_2_lib = P:\Git\22\Computer_Exerccise_2\Computer_Exerccise_2_lib\work
+Computer_Exercise_3_lib = P:/Git/22/Computer_Exercise_3/Computer_Exercise_3_lib/work
+Computer_Exercise_4_hdl_lib = $HDS_PROJECT_DIR/Computer_Exercise_4_hdl_lib/work
+hds_package_library = $HDS_HOME\hdl_libs\hds_package_library\work
+tb_lib = P:/Git/22/tb_lib/work
+[hdl]
+Computer_Exerccise_2_lib = P:/Git/22/Computer_Exerccise_2/Computer_Exerccise_2_lib/hdl
+Computer_Exercise_3_lib = P:/Git/22/Computer_Exercise_3/Computer_Exercise_3_lib/hdl
+Computer_Exercise_4_hdl_lib = $HDS_PROJECT_DIR/Computer_Exercise_4_hdl_lib/hdl
+tb_lib = P:/Git/22/tb_lib/hdl
+[hds]
+Computer_Exerccise_2_lib = P:/Git/22/Computer_Exerccise_2/Computer_Exerccise_2_lib/hds
+Computer_Exercise_3_lib = P:/Git/22/Computer_Exercise_3/Computer_Exercise_3_lib/hds
+Computer_Exercise_4_hdl_lib = $HDS_PROJECT_DIR/Computer_Exercise_4_hdl_lib/hds
+tb_lib = P:/Git/22/tb_lib/hds
+[hds_settings]
+default_library = Computer_Exercise_4_hdl_lib
+version = 2
+[library_files_inclusion]
+Computer_Exerccise_2_lib = all
+Computer_Exercise_3_lib = all
+tb_lib = all
+[library_type]
+Computer_Exerccise_2_lib = regular
+Computer_Exercise_3_lib = regular
+Computer_Exercise_4_hdl_lib = regular
+tb_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

@@ -1,0 +1,4 @@
+This project helped me train my skills and knowledge on digital design and some about VHDL code, functionality of different modules and state machines.
+However, I find some drawbacks:
+1. HDL and Vivado applications crashed some time, and it took a lot of time to generate bit file.
+2. Some of the tutorials were not very in details.

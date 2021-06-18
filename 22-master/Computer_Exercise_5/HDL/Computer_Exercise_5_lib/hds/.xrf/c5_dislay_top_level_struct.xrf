@@ -1,0 +1,317 @@
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 21,0 8 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 167,0 14 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 152,0 15 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 147,0 16 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 172,0 17 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 127,0 18 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 122,0 19 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 137,0 20 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 157,0 21 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 117,0 22 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 132,0 23 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 162,0 24 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 112,0 25 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 107,0 26 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 142,0 27 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 1,0 30 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW symbol.sb
+GRAPHIC 1,0 31 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 12,0 43 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 46
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 0,0 49 2 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1994,0 54 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2020,0 55 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1982,0 56 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2024,0 57 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2038,0 58 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2012,0 59 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2006,0 60 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2016,0 61 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1986,0 62 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2036,0 63 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1992,0 64 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2032,0 65 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2014,0 66 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 67
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1800,0 69 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 71
+LIBRARY Computer_Exercise_5_lib
+DESIGN reg_bank
+VIEW struct
+GRAPHIC 2206,0 73 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2152,0 88 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 100
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2064,0 102 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 110
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2232,0 112 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 118
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2102,0 120 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 129
+LIBRARY Computer_Exercise_5_lib
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 131
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2206,0 134 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2152,0 135 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2064,0 136 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2232,0 137 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2102,0 138 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 141
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1486,0 143 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1449,0 146 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1565,0 149 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1616,0 159 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 162
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2206,0 164 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2248,0 166 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1852,0 167 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2242,0 168 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1816,0 169 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1822,0 170 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1948,0 171 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1828,0 172 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1934,0 173 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1858,0 174 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1968,0 175 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1834,0 176 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2152,0 178 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2272,0 180 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1968,0 181 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2266,0 182 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1904,0 183 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1880,0 184 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1956,0 185 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1864,0 186 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1928,0 187 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1948,0 188 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1934,0 189 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2064,0 191 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2260,0 193 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2254,0 194 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1922,0 195 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1898,0 196 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1792,0 197 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1892,0 198 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2232,0 200 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2284,0 202 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2278,0 203 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1962,0 204 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1910,0 205 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 2102,0 207 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1886,0 209 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1976,0 210 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1942,0 211 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1846,0 212 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1804,0 213 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1868,0 214 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1840,0 215 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+GRAPHIC 1800,0 219 0 
+DESIGN @c5_@dislay_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 221

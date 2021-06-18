@@ -1,0 +1,36 @@
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 25
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+GRAPHIC 41,0 34 0 
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 44
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 46
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+GRAPHIC 166,0 48 0 
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+GRAPHIC 185,0 51 0 
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+GRAPHIC 204,0 54 0 
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN c1_t3_static_hello_led
+VIEW struct.bd
+NO_GRAPHIC 60

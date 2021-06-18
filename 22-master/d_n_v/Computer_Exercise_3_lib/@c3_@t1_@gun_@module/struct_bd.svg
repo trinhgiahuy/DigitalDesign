@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created HDS 2004.1a -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<script xlink:href="../../scripts/SVGPan.js" />
+<g id="viewport" transform="translate(0,-100)">
+
+
+<title>SVG Image</title>
+<desc></desc>
+
+
+<defs>
+<!-- section for CSS stylesheet definitions -->
+<style type="text/css"><![CDATA[
+.allText {font-family:Sans-Serif;fill:darkcyan;}
+.subTitleText {font-size:20;font-weight:bold;}
+.normalText {font-size:15;}
+.smallText {font-size:12;}
+.boldText {font-weight:bold;}
+.rightText {text-anchor:end;}
+.centerText {text-anchor:middle;}
+.dragRect {fill:darkcyan;stroke:none;opacity:0.4;}
+]]></style>
+<symbol id="upArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 0,5 5,0" />
+</symbol>
+<symbol id="leftArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,5 5,0 5,10 0,5" />
+</symbol>
+<symbol id="rightArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 5,10 5,0" />
+</symbol>
+<symbol id="downArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,0 5,5 10,0 0,0" />
+</symbol>
+
+</defs>
+<svg id="mainMap" x="0" y="150" viewBox="0 0 1725 1129" width="912" height="512">
+
+
+<clipPath id="SVG_Clip">
+<rect x="0" y="0" width="1725" height="1129" />
+</clipPath>
+<g id="hds_models" style="clip-path:url(#SVG_Clip)">
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="1107, 399,1157, 399,1157, 474,1107, 474,1107, 399,1107, 399" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" points="1107, 399,1157, 399,1157, 474,1107, 474,1107, 399,1107, 399" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="920, 412,895, 412" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="895, 399,895, 424" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 382,83, 382,89, 387,83, 392,70, 392,70, 382" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 382,83, 382,89, 387,83, 392,70, 392,70, 382" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 382,83, 382,89, 387,83, 392,70, 392,70, 382" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 382,83, 382,89, 387,83, 392,70, 392,70, 382" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 387,95, 387" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 407,83, 407,89, 412,83, 417,70, 417,70, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 407,83, 407,89, 412,83, 417,70, 417,70, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 407,83, 407,89, 412,83, 417,70, 417,70, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 407,83, 407,89, 412,83, 417,70, 417,70, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 412,95, 412" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 582,83, 582,89, 587,83, 592,70, 592,70, 582" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 582,83, 582,89, 587,83, 592,70, 592,70, 582" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 582,83, 582,89, 587,83, 592,70, 592,70, 582" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 582,83, 582,89, 587,83, 592,70, 592,70, 582" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 587,95, 587" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 270,83, 270,89, 275,83, 279,70, 279,70, 270" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 270,83, 270,89, 275,83, 279,70, 279,70, 270" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 270,83, 270,89, 275,83, 279,70, 279,70, 270" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 270,83, 270,89, 275,83, 279,70, 279,70, 270" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 275,95, 275" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 307,83, 307,89, 312,83, 317,70, 317,70, 307" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 307,83, 307,89, 312,83, 317,70, 317,70, 307" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="70, 307,83, 307,89, 312,83, 317,70, 317,70, 307" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="70, 307,83, 307,89, 312,83, 317,70, 317,70, 307" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 312,95, 312" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<rect id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" y="375px" x="446px" width="149px" height="124px" rx="0" ry="0" />
+</a>
+<rect id="r0"  stroke="rgb(0,128,0)" fill="none" stroke-width="3px" stroke-dasharray="" y="375px" x="446px" width="149px" height="124px" rx="0" ry="0" />
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<image xlink:href="BlockDiagram.png" x="448" y="478" width="19" height="18" />
+</a>
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<rect id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" y="550px" x="646px" width="149px" height="124px" rx="0" ry="0" />
+</a>
+<rect id="r0"  stroke="rgb(0,128,0)" fill="none" stroke-width="3px" stroke-dasharray="" y="550px" x="646px" width="149px" height="124px" rx="0" ry="0" />
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<image xlink:href="BlockDiagram.png" x="648" y="653" width="19" height="18" />
+</a>
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1364, 407,1376, 407,1382, 412,1376, 417,1364, 417,1364, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1364, 407,1376, 407,1382, 412,1376, 417,1364, 417,1364, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1364, 407,1376, 407,1382, 412,1376, 417,1364, 417,1364, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1364, 407,1376, 407,1382, 412,1376, 417,1364, 417,1364, 407" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1357, 412,1364, 412" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1376, 557,1389, 557,1395, 562,1389, 567,1376, 567,1376, 557" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1376, 557,1389, 557,1395, 562,1389, 567,1376, 567,1376, 557" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1376, 557,1389, 557,1395, 562,1389, 567,1376, 567,1376, 557" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1376, 557,1389, 557,1395, 562,1389, 567,1376, 567,1376, 557" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1370, 562,1376, 562" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1376, 620,1389, 620,1395, 624,1389, 629,1376, 629,1376, 620" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1376, 620,1389, 620,1395, 624,1389, 629,1376, 629,1376, 620" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1376, 620,1389, 620,1395, 624,1389, 629,1376, 629,1376, 620" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1376, 620,1389, 620,1395, 624,1389, 629,1376, 629,1376, 620" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1370, 624,1376, 624" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1376, 670,1389, 670,1395, 674,1389, 679,1376, 679,1376, 670" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1376, 670,1389, 670,1395, 674,1389, 679,1376, 679,1376, 670" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="1376, 670,1389, 670,1395, 674,1389, 679,1376, 679,1376, 670" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1376, 670,1389, 670,1395, 674,1389, 679,1376, 679,1376, 670" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1370, 674,1376, 674" /> 
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1114px" x="1291px" width="197px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1114px" x="1291px" width="197px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1074px" x="1488px" width="47px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1074px" x="1488px" width="47px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1094px" x="1291px" width="197px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1094px" x="1291px" width="197px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1094px" x="1245px" width="46px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1094px" x="1245px" width="46px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1084px" x="1488px" width="232px" height="40px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1084px" x="1488px" width="232px" height="40px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1074px" x="1535px" width="185px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1074px" x="1535px" width="185px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1074px" x="1245px" width="243px" height="20px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1074px" x="1245px" width="243px" height="20px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1104px" x="1245px" width="46px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1104px" x="1245px" width="46px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1114px" x="1245px" width="46px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1114px" x="1245px" width="46px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="1104px" x="1291px" width="197px" height="10px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="1104px" x="1291px" width="197px" height="10px" rx="0" ry="0" />
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 387,95, 387" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 412,95, 412" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1357, 412,1364, 412" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 587,95, 587" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 275,95, 275" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1370, 562,1376, 562" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1370, 624,1376, 624" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="89, 312,95, 312" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1370, 674,1376, 674" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="445, 387,436, 392,436, 382,445, 387" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="445, 387,436, 392,436, 382,445, 387" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="495, 374,490, 365,500, 365,495, 374" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="495, 374,490, 365,500, 365,495, 374" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="445, 412,436, 417,436, 407,445, 412" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="445, 412,436, 417,436, 407,445, 412" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="532, 374,528, 365,537, 365,532, 374" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="532, 374,528, 365,537, 365,532, 374" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@button_@function/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="604, 387,595, 392,595, 382,604, 387" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="604, 387,595, 392,595, 382,604, 387" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="707, 549,703, 540,712, 540,707, 549" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="707, 549,703, 540,712, 540,707, 549" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="645, 587,636, 592,636, 582,645, 587" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="645, 587,636, 592,636, 582,645, 587" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="732, 549,728, 540,737, 540,732, 549" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="732, 549,728, 540,737, 540,732, 549" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="804, 562,795, 567,795, 557,804, 562" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="804, 562,795, 567,795, 557,804, 562" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="645, 562,636, 567,636, 557,645, 562" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="645, 562,636, 567,636, 557,645, 562" /> 
+<a xlink:href='javascript:parent.location.href="../../Computer_Exercise_3_lib/@gun_pixel/struct_bd.htm"'>
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="804, 624,795, 629,795, 620,804, 624" /> 
+</a>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="804, 624,795, 629,795, 620,804, 624" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="3px" stroke-dasharray="" points="1095, 412,1107, 412" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="3px" stroke-dasharray="" points="1170, 412,1157, 412" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1095, 462,1107, 462" /> 
+<polyline id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" points="1117, 462,1107, 467,1107, 457,1117, 462" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" points="1117, 462,1107, 467,1107, 457,1117, 462" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1132, 387,1132, 388" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1132" cy="393" r="5"/> 
+<circle stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1132" cy="393" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="1179, 462,1170, 467,1170, 457,1179, 462" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1179, 462,1170, 467,1170, 457,1179, 462" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1170, 462,1169, 462" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1163" cy="462" r="6"/> 
+<circle stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1163" cy="462" r="6"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="3px" stroke-dasharray="" points="920, 412,920, 412" /> 
+<circle id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" cx="532" cy="275" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="532" cy="275" r="5"/> 
+<circle id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" cx="495" cy="312" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="495" cy="312" r="5"/> 
+<circle id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" cx="620" cy="462" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="620" cy="462" r="5"/> 
+<circle id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" cx="707" cy="312" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="707" cy="312" r="5"/> 
+<circle id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" cx="732" cy="275" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="732" cy="275" r="5"/> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1245" cy="674" r="5"/> 
+<circle stroke="rgb(255,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1245" cy="674" r="5"/> 
+<circle id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" cx="1245" cy="674" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1245" cy="674" r="5"/> 
+<text x="1491" y="1097" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter comments here&#0062;</text>
+<text x="607" y="32" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">btn        : std_logic_vector(3 DOWNTO 0)</text>
+<text x="607" y="42" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk        : std_logic</text>
+<text x="607" y="52" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">enable     : std_logic</text>
+<text x="607" y="82" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">gun_color  : std_logic_vector(23 DOWNTO 0)</text>
+<text x="607" y="62" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">gun_px_idx : std_logic_vector(1 DOWNTO 0)</text>
+<text x="607" y="72" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst_n      : std_logic</text>
+<text x="1407" y="566" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_coord</text>
+<text x="607" y="92" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_coord    : std_logic_vector(7 DOWNTO 0)</text>
+<text x="607" y="112" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">y_coord    : std_logic_vector(7 DOWNTO 0)</text>
+<text x="629" y="609" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Computer_Exercise_3_lib</text>
+<text x="782" y="566" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">x_coord</text>
+<text x="657" y="566" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_internal</text>
+<text x="782" y="628" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">y_coord</text>
+<text x="607" y="102" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_internal : std_logic_vector(7 DOWNTO 0)</text>
+<text x="607" y="135" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL d          : std_logic_vector(23 DOWNTO 0)</text>
+<text x="445" y="72" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Package List</text>
+<text x="445" y="85" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">LIBRARY ieee;</text>
+<text x="445" y="97" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_1164.all;</text>
+<text x="445" y="110" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_arith.all;</text>
+<text x="582" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Declarations</text>
+<text x="582" y="22" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Ports:</text>
+<text x="582" y="125" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Diagram Signals:</text>
+<text x="58" y="391" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">btn</text>
+<text x="58" y="416" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">enable</text>
+<text x="58" y="278" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">rst_n</text>
+<text x="58" y="316" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">clk</text>
+<text x="454" y="434" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Computer_Exercise_3_lib</text>
+<text x="454" y="447" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Button_Function</text>
+<text x="454" y="459" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">U_6</text>
+<text x="457" y="391" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">btn</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(488,399) rotate(270)" font-size="10" >clk</text>
+<text x="457" y="416" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">enable</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(525,409) rotate(270)" font-size="10" >rst_n</text>
+<text x="582" y="391" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">x_internal</text>
+<text x="120" y="409" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">enable</text>
+<text x="629" y="384" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_internal</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(694,533) rotate(270)" font-size="10" >clk</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(719,529) rotate(270)" font-size="10" >rst_n</text>
+<text x="1395" y="416" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">gun_color</text>
+<text x="1149" y="486" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">adff</text>
+<text x="1149" y="498" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_8</text>
+<text x="1109" y="416" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">d</text>
+<text x="1156" y="416" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">q</text>
+<text x="1119" y="461" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk</text>
+<text x="1125" y="411" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst</text>
+<text x="1156" y="466" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">qb</text>
+<text x="887" y="436" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">constval</text>
+<text x="887" y="448" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_0</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(1019,449) rotate(270)" font-size="10" >clk</text>
+<text x="1070" y="409" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">d</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(1119,376) rotate(270)" font-size="10" >rst_n</text>
+<text x="58" y="591" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">gun_px_idx</text>
+<text x="629" y="622" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Gun_pixel</text>
+<text x="629" y="634" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">U_7</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(700,574) rotate(270)" font-size="10" >clk</text>
+<text x="657" y="591" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">gun_px_idx</text>
+<text x="0" y="0" font-family="arial" fill="rgb(0,0,0)" transform="translate(725,584) rotate(270)" font-size="10" >rst_n</text>
+<text x="1407" y="628" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">y_coord</text>
+<text x="1367" y="1088" font-family="Arial" fill="rgb(127,0,0)" font-size="10" text-anchor="middle">&#0060;company name&#0062;</text>
+<text x="1407" y="678" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_internal</text>
+<text x="1182" y="672" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_internal</text>
+<g id="btn_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="95, 387,436, 387" /> 
+</g>
+<g id="clk_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="95, 312,495, 312,495, 365" /> 
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="707, 540,707, 312,495, 312" /> 
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="707, 312,945, 312,945, 462,1095, 462" /> 
+</g>
+<g id="d_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="1095, 412,920, 412" /> 
+</g>
+<g id="enable_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="95, 412,436, 412" /> 
+</g>
+<g id="gun_color_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="1357, 412,1170, 412" /> 
+</g>
+<g id="gun_px_idx_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="95, 587,636, 587" /> 
+</g>
+<g id="rst_n_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="95, 275,532, 275,532, 365" /> 
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="732, 540,732, 275,532, 275" /> 
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="732, 275,1132, 275,1132, 387" /> 
+</g>
+<g id="x_coord_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="1370, 562,804, 562" /> 
+</g>
+<g id="x_internal_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="604, 387,620, 387,620, 562,636, 562" /> 
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="1245, 674,1370, 674" /> 
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="620, 462,870, 462,870, 674,1245, 674" /> 
+</g>
+<g id="y_coord_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="1370, 624,804, 624" /> 
+</g>
+</g>
+</svg>
+<!-- Create a "titlebox" group so we can reposition it when the SVG moves -->
+<g id="titlebox">
+<g id="genTime" class="allText normalText">
+  <text class="allText smallText" x="300" y="123">Generated on:  1.11.2019 at:  4:14 ip.</text>
+</g>
+
+<rect stroke="none" fill="rgb(200,230,240)" opacity="0.4" y="112" x="0" width="914" height="15" />
+<!-- Close the "titlebox" group -->
+</g>
+
+</g>
+</svg>

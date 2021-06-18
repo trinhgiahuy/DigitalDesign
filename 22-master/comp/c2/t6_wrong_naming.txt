@@ -1,0 +1,15 @@
+Bug:
+1. According to the waveform, button(3) is pressed, x_coord is shifted down, when it reachs the border, it is not shifted up when button(0) is pressed.
+=> Button(0) may malfunction.
+2. Message returns “Error in write signal”.
+3. Write signal does not change, always remain “1”. 
+
+
+Solution:
+1. Trace the btn(0) and btn(3) in the design:
++ btn(3) AND x_coord(0) = 0 to shift down => Check if the lowest position is not 1 to allow shift down. Correct.
++ btn(0) vice versa, it should go with x_coord(7) => Problem found at “and_L” block. Modify x_coord(0) into x_coord(7).
+
+2. Trace where the signal “write” is written, check the D Flip Flop U_0 in preview mode:
++ The reset pin is connected to “tst_n” signal which should be “rst_n”.
+=> Remove the wire, connect a new wire from “rst_n” to the D Flip Flop U_0.

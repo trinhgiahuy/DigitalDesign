@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created HDS 2004.1a -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<script xlink:href="../../scripts/SVGPan.js" />
+<g id="viewport" transform="translate(0,-100)">
+
+
+<title>SVG Image</title>
+<desc></desc>
+
+
+<defs>
+<!-- section for CSS stylesheet definitions -->
+<style type="text/css"><![CDATA[
+.allText {font-family:Sans-Serif;fill:darkcyan;}
+.subTitleText {font-size:20;font-weight:bold;}
+.normalText {font-size:15;}
+.smallText {font-size:12;}
+.boldText {font-weight:bold;}
+.rightText {text-anchor:end;}
+.centerText {text-anchor:middle;}
+.dragRect {fill:darkcyan;stroke:none;opacity:0.4;}
+]]></style>
+<symbol id="upArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 0,5 5,0" />
+</symbol>
+<symbol id="leftArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,5 5,0 5,10 0,5" />
+</symbol>
+<symbol id="rightArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 5,10 5,0" />
+</symbol>
+<symbol id="downArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,0 5,5 10,0 0,0" />
+</symbol>
+
+</defs>
+<svg id="mainMap" x="0" y="150" viewBox="0 0 1789 841" width="912" height="512">
+
+
+<clipPath id="SVG_Clip">
+<rect x="0" y="0" width="1789" height="841" />
+</clipPath>
+<g id="hds_models" style="clip-path:url(#SVG_Clip)">
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="786px" x="867px" width="250px" height="50px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="786px" x="867px" width="250px" height="50px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="773px" x="917px" width="200px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="773px" x="917px" width="200px" height="13px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="968" cy="331" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="968" cy="331" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1204" cy="507" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1204" cy="507" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1672" cy="513" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1672" cy="513" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="451" cy="463" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="451" cy="463" r="37"/> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="124, 309,142, 309,152, 315,142, 322,124, 322,124, 309" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="124, 309,142, 309,152, 315,142, 322,124, 322,124, 309" /> 
+<path stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(128,315) rotate(0.000000)"
+d="M 1.27840 1.53808 A 2 2 0 1 1 1.27840 -1.53808 " /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="124, 309,142, 309,152, 315,142, 322,124, 322,124, 309" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="124, 309,142, 309,152, 315,142, 322,124, 322,124, 309" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="135, 319,139, 319,139, 312,142, 312" /> 
+<path stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(128,315) rotate(0.000000)"
+d="M 1.27840 1.53808 A 2 2 0 1 1 1.27840 -1.53808 " /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="124, 422,142, 422,152, 428,142, 434,124, 434,124, 422" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="124, 422,142, 422,152, 428,142, 434,124, 434,124, 422" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="124, 422,142, 422,152, 428,142, 434,124, 434,124, 422" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="124, 422,142, 422,152, 428,142, 434,124, 434,124, 422" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="142, 432,139, 432,139, 424,135, 424" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="127, 426,128, 426" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="127, 430,127, 426" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="295, 422,314, 422,324, 428,314, 434,295, 434,295, 422" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="295, 422,314, 422,324, 428,314, 434,295, 434,295, 422" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="295, 422,314, 422,324, 428,314, 434,295, 434,295, 422" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="295, 422,314, 422,324, 428,314, 434,295, 434,295, 422" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="289, 428,295, 428" /> 
+<circle id="r0"  stroke="rgb(255,0,0)" fill="rgb(255,0,0)" stroke-width="1px" stroke-dasharray="" cx="135" cy="365" r="11"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="135" cy="365" r="11"/> 
+<circle id="r0"  stroke="rgb(255,0,0)" fill="rgb(255,0,0)" stroke-width="1px" stroke-dasharray="" cx="135" cy="365" r="11"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="135" cy="365" r="11"/> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="none" stroke-width="2px" stroke-dasharray="" points="130, 371,140, 360" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="none" stroke-width="2px" stroke-dasharray="" points="140, 371,130, 360" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="295, 359,314, 359,324, 365,314, 372,295, 372,295, 359" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="295, 359,314, 359,324, 365,314, 372,295, 372,295, 359" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="rgb(255,255,0)" stroke-width="1px" stroke-dasharray="" points="295, 359,314, 359,324, 365,314, 372,295, 372,295, 359" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="295, 359,314, 359,324, 365,314, 372,295, 372,295, 359" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="289, 365,295, 365" /> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="789" cy="437" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="789" cy="437" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="568" cy="321" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="568" cy="321" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1147" cy="193" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1147" cy="193" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1252" cy="342" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1252" cy="342" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1526" cy="360" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1526" cy="360" r="37"/> 
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="823px" x="655px" width="212px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="823px" x="655px" width="212px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="773px" x="867px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="773px" x="867px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="798px" x="655px" width="212px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="798px" x="655px" width="212px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="798px" x="605px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="798px" x="605px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="773px" x="605px" width="262px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="773px" x="605px" width="262px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="811px" x="605px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="811px" x="605px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="823px" x="605px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="823px" x="605px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="811px" x="655px" width="212px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="811px" x="655px" width="212px" height="12px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="565" cy="633" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="565" cy="633" r="37"/> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="214, 557,270, 557,286, 573,286, 630,270, 646,214, 646,198, 630,198, 573,214, 557" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="2px" stroke-dasharray="" points="214, 557,270, 557,286, 573,286, 630,270, 646,214, 646,198, 630,198, 573,214, 557" /> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="241" cy="600" r="37"/> 
+<circle stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" cx="241" cy="600" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1071" cy="536" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1071" cy="536" r="37"/> 
+<circle id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" cx="1553" cy="715" r="37"/> 
+<circle stroke="rgb(0,127,191)" fill="none" stroke-width="3px" stroke-dasharray="" cx="1553" cy="715" r="37"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="135, 319,139, 319,139, 312,142, 312" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="142, 432,139, 432,139, 424,135, 424" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="127, 426,128, 426" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="127, 430,127, 426" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="289, 428,295, 428" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="none" stroke-width="2px" stroke-dasharray="" points="130, 371,140, 360" /> 
+<polyline id="r0"  stroke="rgb(255,255,0)" fill="none" stroke-width="2px" stroke-dasharray="" points="140, 371,130, 360" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="289, 365,295, 365" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="152, 428,289, 428" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="146, 365,289, 365" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="981, 295,1111, 202" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1107, 209,1103, 203,1111, 202" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1005, 336,1007, 336,1010, 336,1013, 336,1017, 336,1021, 336,1025, 336,1029, 336,1034, 336,1038, 336,1043, 336,1048, 337,1053, 337,1059, 337,1064, 337,1069, 337,1074, 337,1080, 337,1085, 337,1090, 337,1095, 337,1100, 337,1105, 337,1110, 337,1114, 337,1119, 337,1123, 337,1128, 337,1133, 337,1137, 337,1142, 337,1147, 337,1152, 337,1157, 337,1162, 337,1166, 337,1171, 337,1176, 337,1180, 337,1184, 337,1189, 337,1193, 337,1196, 337,1200, 337,1203, 337,1207, 337,1209, 337,1212, 337,1214, 337" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1207, 341,1207, 334,1214, 337" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="996, 355,1173, 484" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1166, 483,1170, 478,1173, 484" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1183, 183,1503, 330" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1495, 330,1498, 324,1503, 330" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1289, 341,1488, 357" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1481, 360,1481, 353,1488, 357" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1241, 503,1500, 387" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1495, 392,1492, 387,1500, 387" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1561, 372,1665, 475" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1658, 473,1663, 468,1665, 475" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1656, 546,1577, 687" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1578, 679,1583, 682,1577, 687" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1525, 689,1094, 565" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="1101, 564,1100, 570,1094, 565" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1039, 516,975, 367" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="980, 372,975, 375,975, 367" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1033, 535,804, 471" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="812, 470,810, 476,804, 471" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="1041, 558,602, 634" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="608, 630,609, 636,602, 634" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="808, 405,931, 338" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="927, 344,924, 338,931, 338" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="754, 423,595, 346" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="603, 346,600, 351,595, 346" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="582, 286,939, 306" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="932, 309,933, 302,939, 306" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="566, 358,564, 595" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="561, 588,567, 588,564, 595" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="535, 609,465, 497" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="472, 501,466, 504,465, 497" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="414, 471,286, 600" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-width="1px" stroke-dasharray="" points="289, 593,293, 597,286, 600" /> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="411px" x="913px" width="160px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="411px" x="913px" width="160px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="495px" x="857px" width="157px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="495px" x="857px" width="157px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="308px" x="152px" width="125px" height="15px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="308px" x="152px" width="125px" height="15px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="415px" x="195px" width="50px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="415px" x="195px" width="50px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="366px" x="830px" width="92px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="366px" x="830px" width="92px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="820" cy="398" r="10"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="820" cy="398" r="10"/> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="378px" x="649px" width="96px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="378px" x="649px" width="96px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="738" cy="415" r="10"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="738" cy="415" r="10"/> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="290px" x="755px" width="72px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="290px" x="755px" width="72px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="618" cy="288" r="10"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="618" cy="288" r="10"/> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="566" cy="381" r="10"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="566" cy="381" r="10"/> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="242px" x="1040px" width="90px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="242px" x="1040px" width="90px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="994" cy="286" r="10"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="994" cy="286" r="10"/> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="318px" x="1105px" width="90px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="318px" x="1105px" width="90px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1026" cy="336" r="10"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1026" cy="336" r="10"/> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="414px" x="1078px" width="90px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="414px" x="1078px" width="90px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1013" cy="368" r="9"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1013" cy="368" r="9"/> 
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="418px" x="1607px" width="71px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="418px" x="1607px" width="71px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="590px" x="815px" width="60px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="590px" x="815px" width="60px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" y="470px" x="559px" width="70px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,127,191)" fill="none" stroke-width="1px" stroke-dasharray="" y="470px" x="559px" width="70px" height="25px" rx="0" ry="0" />
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1032" cy="501" r="9"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1032" cy="501" r="9"/> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="1010" cy="528" r="9"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="1010" cy="528" r="9"/> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="996" cy="565" r="9"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="996" cy="565" r="9"/> 
+<text x="870" y="798" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter comments here&#0062;</text>
+<text x="920" y="783" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Computer_Exercise_5</text>
+<text x="875" y="264" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">sb &#0060;= '0';</text>
+<text x="875" y="277" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">transmit &#0060;= '0';</text>
+<text x="875" y="289" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">lat &#0060;= '1';</text>
+<text x="789" y="442" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s9</text>
+<text x="830" y="469" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_index &#0060;=0;</text>
+<text x="830" y="481" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select &#0060;= color_select+1;</text>
+<text x="1613" y="434" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rx_rdy = '1'</text>
+<text x="919" y="427" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_index /= 6 AND counter /= 8</text>
+<text x="863" y="511" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_index = 6 AND counter /= 8</text>
+<text x="432" y="354" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">counter &#0060;= counter +1;</text>
+<text x="432" y="367" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select &#0060;= 0;</text>
+<text x="0" y="60" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Package List</text>
+<text x="0" y="73" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">LIBRARY ieee;</text>
+<text x="0" y="85" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_1164.all;</text>
+<text x="0" y="98" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_arith.all;</text>
+<text x="276" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Architecture Declarations</text>
+<text x="276" y="23" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Pre Decls</text>
+<text x="276" y="35" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Post Decls</text>
+<text x="0" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Global Actions</text>
+<text x="0" y="23" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Pre Actions:</text>
+<text x="0" y="35" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Post Actions:</text>
+<text x="115" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Concurrent Statements</text>
+<text x="809" y="176" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Process Declarations</text>
+<text x="809" y="188" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Clocked Process:</text>
+<text x="809" y="200" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Output Process:</text>
+<text x="637" y="176" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">State Register Statements</text>
+<text x="479" y="13" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Signal Status</text>
+<text x="479" y="23" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL        MODE    DEFAULT  RESET  SCHEME COMMENT  </text>
+<text x="479" y="33" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">sb            OUT                     COMB            </text>
+<text x="479" y="43" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">transmit      OUT                     COMB            </text>
+<text x="479" y="53" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_out       OUT                     COMB            </text>
+<text x="479" y="63" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">lat           OUT                     COMB            </text>
+<text x="479" y="73" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_index     LOCAL                   CLKD            </text>
+<text x="479" y="83" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">red           LOCAL                   CLKD            </text>
+<text x="479" y="93" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">green         LOCAL                   CLKD            </text>
+<text x="479" y="103" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">blue          LOCAL                   CLKD            </text>
+<text x="479" y="113" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color         LOCAL                   CLKD            </text>
+<text x="479" y="123" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select  LOCAL                   CLKD            </text>
+<text x="479" y="133" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">counter       LOCAL                   CLKD            </text>
+<text x="117" y="319" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">clk</text>
+<text x="153" y="319" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk'EVENT AND clk = '1'</text>
+<text x="124" y="432" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">rst</text>
+<text x="330" y="432" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">s0</text>
+<text x="330" y="369" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">s0</text>
+<text x="202" y="425" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst = '0'</text>
+<text x="568" y="325" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s10</text>
+<text x="836" y="382" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select /= 2</text>
+<text x="820" y="402" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">1</text>
+<text x="655" y="394" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select &#0060;= 2</text>
+<text x="738" y="419" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">2</text>
+<text x="761" y="306" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">counter /= 7</text>
+<text x="618" y="292" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">1</text>
+<text x="566" y="385" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">2</text>
+<text x="1328" y="350" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color &#0060;= green;</text>
+<text x="1147" y="198" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s1</text>
+<text x="968" y="335" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s0</text>
+<text x="1285" y="239" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color &#0060;= red;</text>
+<text x="1251" y="347" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s2</text>
+<text x="1046" y="259" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select = 2</text>
+<text x="994" y="290" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">1</text>
+<text x="1111" y="335" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select = 1</text>
+<text x="1026" y="340" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">2</text>
+<text x="1085" y="430" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color_select = 0</text>
+<text x="1014" y="372" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">3</text>
+<text x="1525" y="364" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s4</text>
+<text x="1566" y="401" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_out &#0060;= color (bit_index);</text>
+<text x="450" y="467" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s8</text>
+<text x="424" y="517" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">sb &#0060;= '0';</text>
+<text x="424" y="529" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">lat &#0060;= '1';</text>
+<text x="609" y="658" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">lat &#0060;= '0';</text>
+<text x="609" y="670" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_out &#0060;= '0';</text>
+<text x="242" y="617" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s12</text>
+<text x="220" y="597" font-family="arial" fill="rgb(0,0,128)" font-weight="800" font-size="12" text-anchor="start">wait 2</text>
+<text x="292" y="645" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">sb &#0060;= '1';</text>
+<text x="564" y="638" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s11</text>
+<text x="821" y="606" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">counter=8</text>
+<text x="565" y="486" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">counter = 7</text>
+<text x="657" y="833" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">by qkrasi on 05 joulu 2019</text>
+<text x="870" y="783" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Project:</text>
+<text x="657" y="808" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter diagram title here&#0062;</text>
+<text x="607" y="808" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Title:</text>
+<text x="736" y="790" font-family="Arial" fill="rgb(127,0,0)" font-size="10" text-anchor="middle">&#0060;company name&#0062;</text>
+<text x="607" y="821" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Path:</text>
+<text x="607" y="833" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Edited:</text>
+<text x="657" y="821" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">  &#0060;&#0060;-- more --&#0062;&#0062;</text>
+<text x="1327" y="449" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">color &#0060;= blue;</text>
+<text x="1204" y="512" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s3</text>
+<text x="1071" y="541" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s6</text>
+<text x="1109" y="560" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">transmit &#0060;= '0';</text>
+<text x="1032" y="505" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">1</text>
+<text x="1010" y="532" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">2</text>
+<text x="997" y="569" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">3</text>
+<text x="1672" y="517" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s5</text>
+<text x="1662" y="564" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">bit_index &#0060;= bit_index+1;</text>
+<text x="1552" y="720" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="12" text-anchor="middle">s7</text>
+<text x="1593" y="743" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">transmit &#0060;= '1';</text>
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="202, 433,239, 433" /> 
+</g>
+</svg>
+<!-- Create a "titlebox" group so we can reposition it when the SVG moves -->
+<g id="titlebox">
+<g id="genTime" class="allText normalText">
+  <text class="allText smallText" x="300" y="123">Generated on:  5.12.2019 at: 11:38 ap.</text>
+</g>
+
+<rect stroke="none" fill="rgb(200,230,240)" opacity="0.4" y="112" x="0" width="914" height="15" />
+<!-- Close the "titlebox" group -->
+</g>
+
+</g>
+</svg>

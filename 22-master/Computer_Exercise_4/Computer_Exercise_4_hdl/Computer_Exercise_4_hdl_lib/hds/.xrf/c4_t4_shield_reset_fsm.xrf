@@ -1,0 +1,220 @@
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 116,0 14 0 
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 121,0 15 0 
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 131,0 16 0 
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 126,0 17 0 
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN @c4_@t4_@shield_@reset
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 31,0 33 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 50 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 51
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 205,0 54 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 55
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 59 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 60
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 63 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 64
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 70,0 65 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 60,0 68 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 69
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 72 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 73
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 75 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 76
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 205,0 82 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 83 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 43,0 84 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 205,0 85 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 254,0 88 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 232,0 89 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 90
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 205,0 91 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 92
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 232,0 93 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 259,0 94 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 43,0 96 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 93,0 97 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 99
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 100 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 101
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 103 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 104
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 30,0 109 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 111
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 113 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 232,0 114 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 247,0 115 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 259,0 116 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 274,0 117 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 118
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 120 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 124 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 128
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+GRAPHIC 2,0 131 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t4_@shield_@reset
+VIEW fsm.sm
+NO_GRAPHIC 149

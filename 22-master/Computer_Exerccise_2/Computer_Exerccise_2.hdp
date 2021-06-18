@@ -1,0 +1,33 @@
+[ModelSim]
+c1_t1_half_adder_struct = P:/git/22/ComputerExercise1/ComputerExercise1/c1_t1_half_adder_struct/work
+Computer_Exerccise_2_lib = $HDS_PROJECT_DIR/Computer_Exerccise_2_lib/work
+pre_made = P:\Git\22\pre_made\work
+tb_lib = P:/git/22/tb_lib/work
+[hdl]
+c1_t1_half_adder_struct = P:/git/22/ComputerExercise1/ComputerExercise1/ComputerExercise1_lib/hdl
+Computer_Exerccise_2_lib = $HDS_PROJECT_DIR/Computer_Exerccise_2_lib/hdl
+ComputerExercise1_lib = P:/git/22/ComputerExercise1/ComputerExercise1/ComputerExercise1_lib/hdl/ComputerExercise1_lib/hdl
+pre_made = P:\Git\22\pre_made\hdl
+tb_lib = P:/git/22/tb_lib/hdl
+[hds]
+c1_t1_half_adder_struct = P:/git/22/ComputerExercise1/ComputerExercise1/ComputerExercise1_lib/hds
+Computer_Exerccise_2_lib = $HDS_PROJECT_DIR/Computer_Exerccise_2_lib/hds
+ComputerExercise1_lib = P:/git/22/ComputerExercise1/ComputerExercise1/ComputerExercise1_lib/hdl/ComputerExercise1_lib/hds
+pre_made = P:\Git\22\pre_made\hds
+tb_lib = P:/git/22/tb_lib/hds
+[hds_settings]
+default_library = Computer_Exerccise_2_lib
+version = 2
+[library_files_inclusion]
+c1_t1_half_adder_struct = all
+ComputerExercise1_lib = all
+pre_made = all
+tb_lib = all
+[library_type]
+c1_t1_half_adder_struct = regular
+Computer_Exerccise_2_lib = regular
+ComputerExercise1_lib = regular
+pre_made = regular
+tb_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

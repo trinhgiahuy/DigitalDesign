@@ -1,0 +1,209 @@
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 31
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 41,0 40 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 0,0 46 2 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 671,0 51 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2222,0 52 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 701,0 53 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1844,0 54 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2452,0 55 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 56
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 677,0 58 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 63
+LIBRARY Computer_Exerccise_2_lib
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 2543,0 65 0 
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 221,0 67 0 
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 118,0 68 0 
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 216,0 69 0 
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 128,0 70 0 
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 123,0 71 0 
+DESIGN @basic_@alien_@direction
+VIEW struct
+GRAPHIC 138,0 72 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2125,0 75 0 
+DESIGN @basic_@alien_color
+VIEW struct
+GRAPHIC 131,0 77 0 
+DESIGN @basic_@alien_color
+VIEW struct
+GRAPHIC 121,0 78 0 
+DESIGN @basic_@alien_color
+VIEW struct
+GRAPHIC 116,0 79 0 
+DESIGN @basic_@alien_color
+VIEW struct
+GRAPHIC 126,0 80 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1913,0 83 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct
+GRAPHIC 147,0 85 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct
+GRAPHIC 112,0 86 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct
+GRAPHIC 117,0 87 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 661,0 90 0 
+DESIGN @c2_@t3_@leftshifter
+VIEW struct
+GRAPHIC 112,0 92 0 
+DESIGN @c2_@t3_@leftshifter
+VIEW struct
+GRAPHIC 117,0 93 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 629,0 96 0 
+DESIGN @c2_@t4_@rightshifter
+VIEW symbol.sb
+GRAPHIC 116,0 98 0 
+DESIGN @c2_@t4_@rightshifter
+VIEW symbol.sb
+GRAPHIC 126,0 99 0 
+LIBRARY Computer_Exerccise_2_lib
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 102
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2543,0 105 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2125,0 106 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1913,0 107 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 661,0 108 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 629,0 109 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 112
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 330,0 114 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2439,0 125 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1514,0 135 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 147
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2543,0 149 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2288,0 151 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2454,0 152 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2282,0 153 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 874,0 154 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2264,0 155 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1846,0 156 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2125,0 158 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2147,0 160 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 171,0 161 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2153,0 162 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 199,0 163 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1913,0 165 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2254,0 167 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 1923,0 168 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 213,0 169 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 661,0 171 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 683,0 173 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 673,0 174 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 629,0 176 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 677,0 178 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 2224,0 179 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+GRAPHIC 677,0 183 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct.bd
+NO_GRAPHIC 185

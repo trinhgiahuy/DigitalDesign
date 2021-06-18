@@ -1,0 +1,26 @@
+[ModelSim]
+ComputerExercise1_lib = $HDS_PROJECT_DIR/ComputerExercise1_lib/work
+pre_made = P:\Git\22\pre_made\work
+tb_lib = P:/Git/22/tb_lib/work
+[Precision]
+tb_lib = P:/Git/22/tb_lib/ps
+[hdl]
+ComputerExercise1_lib = $HDS_PROJECT_DIR/ComputerExercise1_lib/hdl
+pre_made = P:/Git/22/pre_made/hdl
+tb_lib = P:/Git/22/tb_lib/hdl
+[hds]
+ComputerExercise1_lib = $HDS_PROJECT_DIR/ComputerExercise1_lib/hds
+pre_made = P:/Git/22/pre_made/hds
+tb_lib = P:/Git/22/tb_lib/hds
+[hds_settings]
+default_library = ComputerExercise1_lib
+version = 2
+[library_files_inclusion]
+pre_made = all
+tb_lib = all
+[library_type]
+ComputerExercise1_lib = regular
+pre_made = regular
+tb_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

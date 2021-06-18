@@ -1,0 +1,36 @@
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 25
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+GRAPHIC 41,0 34 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+GRAPHIC 246,0 44 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 50
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+GRAPHIC 275,0 52 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+GRAPHIC 141,0 63 0 
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN @basic_@alien_y_coord
+VIEW struct.bd
+NO_GRAPHIC 69

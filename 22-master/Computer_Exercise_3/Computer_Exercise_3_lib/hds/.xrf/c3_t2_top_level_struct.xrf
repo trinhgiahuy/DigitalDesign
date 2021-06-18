@@ -1,0 +1,547 @@
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 166,0 14 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 161,0 15 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 156,0 16 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 196,0 17 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 353,0 18 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 338,0 19 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 348,0 20 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 343,0 21 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 328,0 22 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 333,0 23 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN @c3_@t2_@top_@level
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 30
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 41,0 39 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 0,0 47 2 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1720,0 52 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2261,0 53 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2140,0 54 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2249,0 55 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2255,0 56 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2592,0 57 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2598,0 58 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1644,0 59 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2493,0 60 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2152,0 61 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1650,0 62 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2499,0 63 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1656,0 64 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2517,0 65 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2556,0 66 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2604,0 67 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2727,0 68 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1696,0 69 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2128,0 70 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2243,0 71 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1816,0 72 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 73
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 74
+LIBRARY Computer_Exerccise_2_lib
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 2483,0 76 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 550,0 78 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 132,0 79 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 582,0 80 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 137,0 81 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 122,0 82 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 587,0 83 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 147,0 84 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 142,0 85 0 
+DESIGN @c2_@t7_@basic_@alien
+VIEW struct
+GRAPHIC 152,0 86 0 
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t1_@gun_@module
+VIEW struct
+GRAPHIC 1379,0 89 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 124,0 91 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 139,0 92 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 134,0 93 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 129,0 94 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 144,0 95 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 159,0 96 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 149,0 97 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 472,0 98 0 
+DESIGN @c3_@t1_@gun_@module
+VIEW symbol.sb
+GRAPHIC 154,0 99 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 512,0 102 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 124,0 104 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 129,0 105 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 364,0 106 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 532,0 107 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 134,0 108 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 159,0 109 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 288,0 110 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 154,0 111 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 144,0 112 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 139,0 113 0 
+DESIGN @c3_@t2_@write_@sequencer
+VIEW symbol.sb
+GRAPHIC 149,0 114 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2233,0 117 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 129,0 119 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 139,0 120 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 144,0 121 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 124,0 122 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 134,0 123 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 159,0 124 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 149,0 125 0 
+DESIGN @c3_@t4_@bullet
+VIEW symbol.sb
+GRAPHIC 154,0 126 0 
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t1_@hit_@detector
+VIEW struct
+GRAPHIC 2344,0 129 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 118,0 131 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 123,0 132 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 128,0 133 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 133,0 134 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 170,0 135 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 175,0 136 0 
+DESIGN @c4_@t1_@hit_@detector
+VIEW symbol.sb
+GRAPHIC 138,0 137 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2687,0 140 0 
+DESIGN @c4_@t2_@victory_@effect
+VIEW symbol.sb
+GRAPHIC 118,0 142 0 
+DESIGN @c4_@t2_@victory_@effect
+VIEW symbol.sb
+GRAPHIC 123,0 143 0 
+DESIGN @c4_@t2_@victory_@effect
+VIEW symbol.sb
+GRAPHIC 265,0 144 0 
+DESIGN @c4_@t2_@victory_@effect
+VIEW symbol.sb
+GRAPHIC 341,0 145 0 
+DESIGN @c4_@t2_@victory_@effect
+VIEW symbol.sb
+GRAPHIC 255,0 146 0 
+DESIGN @c4_@t2_@victory_@effect
+VIEW symbol.sb
+GRAPHIC 260,0 147 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2398,0 150 0 
+DESIGN @hit_@counter
+VIEW symbol.sb
+GRAPHIC 116,0 152 0 
+DESIGN @hit_@counter
+VIEW symbol.sb
+GRAPHIC 126,0 153 0 
+DESIGN @hit_@counter
+VIEW symbol.sb
+GRAPHIC 121,0 154 0 
+DESIGN @hit_@counter
+VIEW symbol.sb
+GRAPHIC 191,0 155 0 
+DESIGN @hit_@counter
+VIEW symbol.sb
+GRAPHIC 131,0 156 0 
+DESIGN @hit_@counter
+VIEW symbol.sb
+GRAPHIC 161,0 157 0 
+LIBRARY Computer_Exercise_3_lib
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 160
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2483,0 163 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1379,0 164 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 512,0 165 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2233,0 166 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2344,0 167 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2687,0 168 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2398,0 169 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 172
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1481,0 174 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1518,0 186 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1581,0 198 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 211
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2483,0 213 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1684,0 215 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1690,0 216 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2495,0 217 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2037,0 218 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1678,0 219 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2519,0 220 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1722,0 221 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1698,0 222 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1818,0 223 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1379,0 225 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2045,0 227 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 702,0 228 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1646,0 229 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1652,0 230 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1250,0 231 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2154,0 232 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2130,0 233 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2245,0 234 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2142,0 235 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 512,0 237 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 666,0 239 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 652,0 240 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2558,0 241 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2729,0 242 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2877,0 243 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1646,0 244 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2495,0 245 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2861,0 246 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1652,0 247 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1658,0 248 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2847,0 249 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2233,0 251 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 1891,0 253 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2279,0 254 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2267,0 255 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2245,0 256 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2273,0 257 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2263,0 258 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2251,0 259 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2257,0 260 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2344,0 262 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2354,0 264 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2360,0 265 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2366,0 266 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2372,0 267 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2414,0 268 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2408,0 269 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2501,0 270 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2687,0 272 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2616,0 274 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2610,0 275 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2606,0 276 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2729,0 277 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2594,0 278 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2600,0 279 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2398,0 281 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2505,0 283 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2501,0 284 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2511,0 285 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2709,0 286 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2519,0 287 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+GRAPHIC 2558,0 288 0 
+DESIGN @c3_@t2_@top_@level
+VIEW struct.bd
+NO_GRAPHIC 291

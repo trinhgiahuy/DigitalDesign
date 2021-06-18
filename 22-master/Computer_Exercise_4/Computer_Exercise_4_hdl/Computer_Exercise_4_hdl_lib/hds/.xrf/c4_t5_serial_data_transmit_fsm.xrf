@@ -1,0 +1,285 @@
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 128,0 14 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 118,0 15 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 123,0 16 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 133,0 17 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 175,0 18 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 138,0 19 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 170,0 20 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 31,0 36 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 39
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 54 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 55
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 265,0 58 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 292,0 59 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 60
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 64 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 65
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 68 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 69
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 70,0 70 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 60,0 73 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 74
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 77 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 78
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 80 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 81
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 265,0 88 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 292,0 89 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 43,0 91 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 233,0 92 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 211,0 93 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 94
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 43,0 95 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 96
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 211,0 97 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 238,0 98 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 265,0 100 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 314,0 103 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 292,0 104 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 106
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 265,0 107 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 292,0 109 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 465,0 110 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 43,0 111 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 112
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 292,0 113 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 114
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 93,0 115 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 117
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 118 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 119
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 121 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 30,0 128 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 131
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 133 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 238,0 134 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 253,0 135 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 265,0 137 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 280,0 138 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 292,0 141 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 307,0 142 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 145
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 147 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 149
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 151 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 156
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+GRAPHIC 2,0 159 0
+LIBRARY Computer_Exercise_4_hdl_lib
+DESIGN @c4_@t5_@serial_@data_@transmit
+VIEW fsm.sm
+NO_GRAPHIC 179
